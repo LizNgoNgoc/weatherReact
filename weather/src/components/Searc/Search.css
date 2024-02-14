@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;800&family=Montserrat:wght@200;300;400;500;600;700&family=Open+Sans:wght@300;400;500;600&family=Poppins:wght@400;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500;1,700&family=Rubik:wght@400;500&display=swap');
+
+.container_search {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin: auto;
+}
+
+.search_inp {
+    width: 400px;
+    height: 30px;
+    border-radius: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    color: rgba(128, 128, 128, 0.932);
+    padding: 12px;
+    box-shadow: 5px 5px 5px rgba(65, 62, 62, 0.39);
+}
+
+.search_btn {
+    width: 90px;
+    height: 30px;
+    box-shadow: 5px 5px 5px rgba(65, 62, 62, 0.39);
+    border-radius: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    color: black;
+    font-weight: 300;
+} 
