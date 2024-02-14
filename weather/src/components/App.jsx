@@ -1,7 +1,10 @@
 import './App.css';
 
 function App() {
-  return <main></main>
+  const setState = {}
+  return <main>
+
+  </main>
 }
 
 export default App;
